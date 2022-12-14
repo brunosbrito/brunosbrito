@@ -37,12 +37,11 @@ object **Bruno** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunosbrito&show_icons=true&theme=dracula&line_height=27" alt=" brunosbrito github stats"/>
 </a>
 
-[gmail]: https://mail.google.com/mail/u/brunobrito728@gmail.com
 [linkedin]: https://www.linkedin.com/in/brunos-brito/
 <br>
 
 #### Rede Sociais!
 
-:mailbox: [gmail][gmail] **|** 
+[![Gmail Badge](https://img.shields.io/badge/-brunobrito728@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunobrito728@gmail.com)](mailto:brunobrito728@gmail.com)
 👔 [linkedin][linkedin]
 
