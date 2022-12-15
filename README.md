@@ -42,6 +42,5 @@ object **Bruno** {
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Bruno](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunos-brito/)](https://www.linkedin.com/in/brunos-brito/)
-
 [![Gmail Badge](https://img.shields.io/badge/-brunobrito728@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunobrito728@gmail.com)](mailto:brunobrito728@gmail.com)
 
