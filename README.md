@@ -1,6 +1,6 @@
 ### Oie devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Sou uma pessoa  apaixonada por tecnologia e  que está sempre  em busca de crescimento pessoal e profissional e adoro superar desafios e ir além de onde eu posso ir. 
 
 ## Mais sobre mim
 
