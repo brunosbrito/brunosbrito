@@ -1,6 +1,6 @@
 ### Oie devs 👋
 
-Sou uma pessoa  apaixonada por tecnologia e  que está sempre  em busca de crescimento pessoal e profissional e adoro superar desafios e ir além de onde eu posso ir. 
+Sou uma pessoa apaixonada por tecnologia e durante minha trajetória trabalhei em alguns setores como infraestrutura e telecomunicações até conhecer o mundo da programação onde descobri realmente qual seria a minha profissão. Com a ajuda da Trybe, que é uma escola de tecnologia, hoje sou uma pessoa desenvolvedora Front End e pretendo me tornar um desenvolvedor Full Stack.
 
 ## Mais sobre mim
 
