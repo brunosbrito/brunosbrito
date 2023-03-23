@@ -9,9 +9,9 @@ Sou uma pessoa apaixonada por tecnologia e durante minha trajetória trabalhei e
 ```kotlin
 object **Bruno** {
  val name = "Bruno de Souza Brito"
- val acknowledgements = "Front end"
+ val acknowledgements = "Full Stack"
  
- val primarySkillset = "HTML, CSS, Bootstrap, React, Jest"
+ val primarySkillset = " React, Jest,  NodeJs, Express, MySQL, Docker, Mocha, TypeScript"
  val languages = listOf("JavaScript")
 
 }
