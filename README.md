@@ -11,7 +11,7 @@ object **Bruno** {
  val name = "Bruno de Souza Brito"
  val acknowledgements = "Full Stack"
  
- val primarySkillset = " React, Jest,  NodeJs, Express, MySQL, Docker, Mocha, TypeScript"
+ val primarySkillset = "Angular, TypeScript, React, Jest,  NodeJs, Express, .Net MySQL, Docker"
  val languages = listOf("JavaScript")
 
 }
