@@ -1,6 +1,10 @@
 ### Olá devs 👋
 
-Sou uma pessoa apaixonada por tecnologia e durante minha trajetória trabalhei em alguns setores como infraestrutura e telecomunicações até conhecer o mundo da programação onde descobri realmente qual seria a minha profissão. Com a ajuda da Trybe, que é uma escola de tecnologia, hoje sou uma pessoa desenvolvedora Front End e pretendo me tornar um desenvolvedor Full Stack.
+Sou desenvolvedor Full Stack e tenho habilidades em diversas tecnologias, como: Angular, Angular Material, ReactJS, TypeScript, Redux, Context Api, Sass, Hooks, C#, .net, NodeJS, API RESTfull, Docker, express, MySQL, SQL Server, Azure, Linux/Ubuntu, Git e GitHub. 
+
+Sou pró-ativo e estou sempre buscando aprender mais e crescer profissionalmente. 
+
+Ao longo da minha formação tive a oportunidade de realizar diversos projetos desafiadores onde aperfeiçoei as minhas habilidades! 
 
 ## Mais sobre mim
 
