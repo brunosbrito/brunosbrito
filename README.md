@@ -1,6 +1,6 @@
 ### Olá devs 👋
 
-Sou desenvolvedor Full Stack e tenho habilidades em diversas tecnologias, como: Angular, Angular Material, ReactJS, TypeScript, Redux, Context Api, Sass, Hooks, C#, .net, NodeJS, API RESTfull, Docker, express, MySQL, SQL Server, Azure, Linux/Ubuntu, Git e GitHub. 
+Sou desenvolvedor Full Stack e tenho habilidades em diversas tecnologias, como: .NET, Angular, Angular Material, ReactJS, TypeScript, Redux, Context Api, Sass, Hooks, C#, .net, NodeJS, API RESTfull, Docker, express, MySQL, SQL Server, Azure, Linux/Ubuntu, Git e GitHub. 
 
 Sou pró-ativo e estou sempre buscando aprender mais e crescer profissionalmente. 
 
@@ -8,21 +8,10 @@ Ao longo da minha formação tive a oportunidade de realizar diversos projetos d
 
 ## Mais sobre mim
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-```kotlin
-object **Bruno** {
- val name = "Bruno de Souza Brito"
- val acknowledgements = "Full Stack"
- 
- val primarySkillset = "Angular, TypeScript, React, Jest,  NodeJs, Express, .Net MySQL, Docker"
- val languages = listOf("JavaScript")
-
-}
-```
-
 ## **Linguagens e Ferramentas:**  
 
+<code><img height="30" src="![image](https://github.com/user-attachments/assets/a675f839-9709-423f-8718-6424953d8874)
+"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://miro.medium.com/max/318/1*7jRD5QhgARucFKvRHFxpOg.png"></code>
