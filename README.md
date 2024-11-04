@@ -11,6 +11,7 @@ Ao longo da minha formação tive a oportunidade de realizar diversos projetos d
 ## **Linguagens e Ferramentas:**  
 
 <code><img height="30" src="https://github.com/user-attachments/assets/a675f839-9709-423f-8718-6424953d8874"></code>
+<code><img height="30" src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://miro.medium.com/max/318/1*7jRD5QhgARucFKvRHFxpOg.png"></code>
